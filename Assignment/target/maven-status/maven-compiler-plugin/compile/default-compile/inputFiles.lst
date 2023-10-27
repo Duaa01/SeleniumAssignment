@@ -1,0 +1,12 @@
+/home/duaasyed/IdeaProjects/Assignment/src/main/java/utils/WebInteractions.java
+/home/duaasyed/IdeaProjects/Assignment/src/main/java/csv/GenerateCsv.java
+/home/duaasyed/IdeaProjects/Assignment/src/main/java/pages/locators/homePageLocators.java
+/home/duaasyed/IdeaProjects/Assignment/src/main/java/pages/account/Account.java
+/home/duaasyed/IdeaProjects/Assignment/src/main/java/pages/locators/AccountLocators.java
+/home/duaasyed/IdeaProjects/Assignment/src/main/java/pages/locators/LoginLocator.java
+/home/duaasyed/IdeaProjects/Assignment/src/main/java/utils/CustomWaits.java
+/home/duaasyed/IdeaProjects/Assignment/src/main/java/csv/ReadCSV.java
+/home/duaasyed/IdeaProjects/Assignment/src/main/java/pages/login/Login.java
+/home/duaasyed/IdeaProjects/Assignment/src/main/java/Data/AccountName.java
+/home/duaasyed/IdeaProjects/Assignment/src/main/java/Data/LoginCredentials.java
+/home/duaasyed/IdeaProjects/Assignment/src/main/java/Data/Json/JsonData.java
