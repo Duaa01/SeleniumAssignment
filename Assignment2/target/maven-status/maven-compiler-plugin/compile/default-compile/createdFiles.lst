@@ -1,0 +1,12 @@
+weathershopper/pages/homepage/HomePage.class
+weathershopper/pages/productspage/ProductsPageUI.class
+utils/json/JsonData.class
+weathershopper/pages/paymentframe/PaymentPage.class
+weathershopper/pages/homepage/HomePageUI.class
+utils/CustomWaits.class
+weathershopper/pages/paymentframe/PaymentModalUI.class
+weathershopper/pages/cartpage/CartPage.class
+utils/json/PaymentDetails.class
+weathershopper/pages/productspage/ProductsPage.class
+weathershopper/pages/cartpage/CartPageUI.class
+utils/WebInteractions.class

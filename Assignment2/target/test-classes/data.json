@@ -1,0 +1,12 @@
+{
+
+  "Payment": {
+    "email": "duaa.syed@emumba.com",
+    "cardNum": "4242424242424242",
+    "expDate": "1/25",
+    "CVC": "1234",
+    "zip": "46200"
+
+  }
+
+}

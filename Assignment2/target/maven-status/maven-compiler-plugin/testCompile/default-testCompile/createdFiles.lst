@@ -1,0 +1,5 @@
+weathershopper/apptest/PaymentTestChrome.class
+configuration/ConfigManager.class
+weathershopper/apptest/PaymentTestFirefox.class
+testreport/ExtentReportManager.class
+testreport/TestScreenshots.class
